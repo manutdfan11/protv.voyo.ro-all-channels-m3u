@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VOYOSport1.ro@SD",VOYO Sport 1
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="ProTV.ro@SD",Pro TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+#EXTINF:-1 tvg-id="AcasăTV.ro@SD",Acasă TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/709.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro@SD",Kanal D
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/705.m3u8
+#EXTINF:-1 tvg-id="KanalD2.ro@SD",Kanal D2
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/1012.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="NationalTV.ro@SD",National TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-national/live_lq?offsetSeconds=0
+#EXTINF:-1 tvg-id="NationalTV2.ro@SD",National TV 2
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/19272.m3u8
+#EXTINF:-1 tvg-id="National24Plus.ro@SD",National 24 Plus
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-n24-plus/live_lq?offsetSeconds=0
+#EXTINF:-1 tvg-id="FavoritTV.ro@SD",Favorit TV
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 tvg-id="EtnoTV.ro@SD",Etno TV
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro@SD",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro@SD",TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRTârguMures.ro@SD",TVR Târgu Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="VPTV.ro@SD",VPTV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15211.m3u8
+#EXTINF:-1 tvg-id="QuantumTV.ro@SD",Quantum TV
+https://vs2133.vcdn.biz/e18563dda28328c31bb4da770903a81b_megogo/live/hls/b/4000/u_sid/0/o/190218421/rsid/5a38d259-5c91-4be4-a334-500e3744f7fd/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9182836729848549823-b4000000.m3u8
+#EXTINF:-1 tvg-id="PROTVInternational.ro@SD",PRO TV International
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15212.m3u8
+#EXTINF:-1 tvg-id="TravelMix.ro@SD",Travel Mix
+https://vs2122.vcdn.biz/ecc83596e191727bc74f13bb899fcca8_megogo/live/hls/b/4000/u_sid/0/o/183804761/rsid/1ed77b82-b207-4936-be52-f4ad882c6eaf/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid1443590578585785075-b4000000.m3u8
+#EXTINF:-1 tvg-id="MetropolaTV.ro@SD",Metropola TV
+https://vs2141.vcdn.biz/2373ec2add6e6193ffed6a7fcda832c7_megogo/live/hls/b/4000/u_sid/0/o/183160901/rsid/57970a92-9892-4d5b-8b6f-e2d6fc4b7e6e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid5527240293315652411-b4000000.m3u8
+#EXTINF:-1 tvg-id="Beauty.ON.ro@SD",Beauty.ON
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18661.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro@SD",Digi 24
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/685.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD",Romania TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/11082.m3u8
+#EXTINF:-1 tvg-id="PrimaNews.ro@SD",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="B1TV.ro@SD",B1TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8405.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD",Euronews Romania
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8527.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD",Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="PROCINEMA.ro@SD",PRO CINEMA
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9491.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD",Acasa Gold
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9490.m3u8
+#EXTINF:-1 tvg-id="BollywoodClasic.ro@SD",Bollywood Clasic
+https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
+#EXTINF:-1 tvg-id="CineWow.ro@SD",CineWow
+https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro@SD",Cinemaraton Plus
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18658.m3u8
+#EXTINF:-1 tvg-id="NostalgiaTV.ro@SD",Nostalgia TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15461.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@SD",Pro Arena
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
+#EXTINF:-1 tvg-id="TraLaLaTV.ro@SD",TraLaLa TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8506.m3u8
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro@SD",TraLaLa DSN
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18660.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro@SD",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro@SD",Rock TV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/7332.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD",Music Channel
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/87.m3u8
+#EXTINF:-1 tvg-id="UTV.ro@SD",UTV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
+#EXTINF:-1 tvg-id="H!TMusicChannel.ro@SD",H!T Music Channel
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/65.m3u8
+#EXTINF:-1 tvg-id="PartyMix.ro@SD",Party Mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="EmiTV.ro@SD",Emi TV
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="TarafTV.ro@SD",Taraf TV
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_lq?offsetSeconds=0
+#EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-traditional-tv/live_hd?offsetSeconds=0
+#EXTINF:-1 tvg-id="OrizontTV.ro@SD",Orizont TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_lq?offsetSeconds=0
+#EXTINF:-1 tvg-id="TVRFolclor.ro@SD",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro@SD",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.ro@SD",TV5 Monde Europe
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv5/live_lq?offsetSeconds=0
+#EXTINF:-1 tvg-id="TrimitasTV.ro@SD",Trimitas TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-trinitas/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD",Alfa Omega TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-alfa-omega/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="SperantaTV.ro@SD",Speranta TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-speranta/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="MedikaTV.ro@SD",Medika TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-medika/live_hq?offsetSeconds=0/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
