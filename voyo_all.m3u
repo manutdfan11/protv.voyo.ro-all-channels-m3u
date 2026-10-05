@@ -38,11 +38,11 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160
 #EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="VPTV.ro@SD",VPTV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15211.m3u8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD",Quantum TV
 https://vs2133.vcdn.biz/e18563dda28328c31bb4da770903a81b_megogo/live/hls/b/4000/u_sid/0/o/190218421/rsid/5a38d259-5c91-4be4-a334-500e3744f7fd/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9182836729848549823-b4000000.m3u8
 #EXTINF:-1 tvg-id="PROTVInternational.ro@SD",PRO TV International
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15212.m3u8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="TravelMix.ro@SD",Travel Mix
 https://vs2122.vcdn.biz/ecc83596e191727bc74f13bb899fcca8_megogo/live/hls/b/4000/u_sid/0/o/183804761/rsid/1ed77b82-b207-4936-be52-f4ad882c6eaf/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid1443590578585785075-b4000000.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD",Metropola TV
@@ -66,7 +66,7 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="PROCINEMA.ro@SD",PRO CINEMA
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9491.m3u8
 #EXTINF:-1 tvg-id="AcasaGold.ro@SD",Acasa Gold
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9490.m3u8
+https://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="BollywoodClasic.ro@SD",Bollywood Clasic
 https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro@SD",CineWow
