@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VOYOSport1.ro@SD",VOYO Sport 1
+#EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
@@ -106,11 +106,11 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_lq?offsetSeconds=0
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-traditional-tv/live_hd?offsetSeconds=0
+https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="TVAS.ro@SD",TV AS
 https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro@SD",Orizont TV
-https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVRFolclor.ro@SD",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD",TVR Cultural
