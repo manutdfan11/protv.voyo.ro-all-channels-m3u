@@ -40,7 +40,7 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160
 #EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="VPTV.ro@SD",VPTV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_fullhd?offsetSeconds=0
+https://sifnos.cdn.dejacast.com/live/vptv/tracks-v1a1/mono.ts.m3u8?from=1792926052&to=1792954852&session=aTLeC1WB6DFl4gGi&source=cms&token=WY5ty9VgmfLVD9Llg_pk2lyOH5I=
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD",Quantum TV
 https://vs2133.vcdn.biz/e18563dda28328c31bb4da770903a81b_megogo/live/hls/b/4000/u_sid/0/o/190218421/rsid/5a38d259-5c91-4be4-a334-500e3744f7fd/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9182836729848549823-b4000000.m3u8
 #EXTINF:-1 tvg-id="PROTVInternational.ro@SD",PRO TV International
@@ -50,7 +50,7 @@ https://vs2122.vcdn.biz/ecc83596e191727bc74f13bb899fcca8_megogo/live/hls/b/4000/
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD",Metropola TV
 https://vs2141.vcdn.biz/2373ec2add6e6193ffed6a7fcda832c7_megogo/live/hls/b/4000/u_sid/0/o/183160901/rsid/57970a92-9892-4d5b-8b6f-e2d6fc4b7e6e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.170*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid5527240293315652411-b4000000.m3u8
 #EXTINF:-1 tvg-id="Beauty.ON.ro@SD",Beauty.ON
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq
+https://sifnos.cdn.dejacast.com/live/beautyon/tracks-v1a1/mono.ts.m3u8?from=1792926052&to=1792954852&session=aTLeC1WB6DFl4gGi&source=cms&token=WY5ty9VgmfLVD9Llg_pk2lyOH5I=
 #EXTINF:-1 tvg-id="Digi24.ro@SD",Digi 24
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/685.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro@SD",Romania TV
@@ -104,7 +104,7 @@ https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_lq?offsetSeconds=0
+https://sifnos.cdn.dejacast.com/live/rapsodiatv/tracks-v1a1/mono.ts.m3u8?from=1792926052&to=1792954852&session=aTLeC1WB6DFl4gGi&source=cms&token=WY5ty9VgmfLVD9Llg_pk2lyOH5I=
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
 https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="TVAS.ro@SD",TV AS
