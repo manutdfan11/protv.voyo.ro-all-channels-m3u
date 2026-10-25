@@ -26,7 +26,7 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV2.ro@SD",Favorit TV 2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15251/index.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro@SD",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVRCluj.ro@SD",TVR Cluj
