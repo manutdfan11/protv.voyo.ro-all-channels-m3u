@@ -68,7 +68,7 @@ http://hls01ns.antenaplay.ro/hls/realitatea-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="PROCINEMA.ro@SD",PRO CINEMA
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9491.m3u8
 #EXTINF:-1 tvg-id="AcasaGold.ro@SD",Acasa Gold
-https://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="BollywoodClasic.ro@SD",Bollywood Clasic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro@SD",CineWow
