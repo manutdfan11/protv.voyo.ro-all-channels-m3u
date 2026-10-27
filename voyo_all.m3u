@@ -26,7 +26,7 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV2.ro@SD",Favorit TV 2
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15251/index.m3u8
+https://akamaisqli.app/--lMVy52kMxnGaCciH9_Qy_Fw8mF0QDlVAnHV_LINYl1Gwl0QAsK/ot_Lt4NzQHwmQgBikAD0wDHrJ5aBL1zdlQCPR0h5iJYJHK4I7YU.htm?token=eb1cedb5dc31dffc943f46b8522193bda0b6290f-a7152248b02362afebe56709f0ea19c4-1793134318-1793123518
 #EXTINF:-1 tvg-id="EtnoTV.ro@SD",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVRCluj.ro@SD",TVR Cluj
@@ -106,7 +106,7 @@ https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
-https://ios.cdn.dejacast.com/live//rapsodiatv/tracks-v1a1/mono.ts.m3u8?from=1793008116&to=1793036916&session=ivOI7aqPTQY5ODCk&source=cms&token=3-GxUD1wUWIokrTGUZq6L9Mq19Y=
+https://vs2139.vcdn.biz/c8f2f74a3f2fdbddc39dd566fe16e963_megogo/live/hls/b/700_2490/u_sid/0/o/183161911/rsid/a0e4b495-8346-4941-bd02-ea61ee848784/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.73*asn/u_srvc/109126/u_did/web_120545f86871779ba8c4d9505b6dfca9e62bd46fa6b48b0d4829dd71a1adad01/type.live/chunklist-sid3280795862407301834-b700000.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
 https://hls01ns.antenaplay.ro/hls/traditional-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="TVAS.ro@SD",TV AS
