@@ -7,7 +7,7 @@ SPORTS PROGRAM:
 
 
 
-![all link](https://cloudia.cms-ro.jyxo.net/r680x380n/a445fd36-443b-40a8-88f8-7e14cc762b42.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
+![all link](https://www.sport.ro/img/2026/05/16/141508/play_on_sport_160526_integral.webp)
 
 
-Ligue 1 | Strasbourg - Auxerre - LIVE on Voyo Sport 1
+VOYO ROMANIA | Play On Sport - LIVE on Voyo Sport 1
