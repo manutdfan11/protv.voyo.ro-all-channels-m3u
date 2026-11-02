@@ -7,7 +7,7 @@ SPORTS PROGRAM:
 
 
 
-![all link](https://cloudia.cms-ro.jyxo.net/r680x380n/df6cf35f-009b-4116-a58c-d0c728fbe194.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
+![all link](https://cloudia.cms-ro.jyxo.net/r1320x742n/49e28181-abba-41f7-8391-6325720e9cf7.avif)
 
 
-VOYO ROMANIA | Liverpool - Arsenal - LIVE on Voyo Sport 1
+AFC Champions League Elite | Pakhtakor - Al Nassr FC - LIVE on Voyo Sport 1
