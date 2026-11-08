@@ -7,7 +7,7 @@ SPORTS PROGRAM:
 
 
 
-![all link](https://cloudia.cms-ro.jyxo.net/r1320x742n/4d305639-e06b-4351-9f39-1d13411e1735.avif)
+![all link](https://cloudia.cms-ro.jyxo.net/r680x380n/44829fff-4b54-402b-a887-b1d851112c98.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
 
 
-Basketball - EuroLeague | Anadolu Efes - Paris Basketball - LIVE on Voyo Sport 1
+Women's Football Liga 1 | Olimpia Cluj – Politehnica Timișoara - LIVE on Pro Arena
