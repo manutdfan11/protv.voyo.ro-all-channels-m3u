@@ -7,7 +7,7 @@ SPORTS PROGRAM:
 
 
 
-![all link](https://cloudia.cms-ro.jyxo.net/rxn/7fdc717b-a8a2-4996-8f92-7e8dda6d2dee.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
+![all link](https://cloudia.cms-ro.jyxo.net/r680x380n/013cda10-abc0-4139-ae82-a35fc433c18b.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
 
 
-Premier League | Manchester United – Aston Villa - LIVE on Voyo Sport 1
+Baschet - EuroLiga | Partizan - Caja Laboral Baskonia - LIVE on Voyo Sport 1
