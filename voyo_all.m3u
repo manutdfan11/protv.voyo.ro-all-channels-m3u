@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1 (BACKUP)
+http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="ProTV.ro@SD",Pro TV
