@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
-#EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1 (BACKUP)
 http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="ProTV.ro@SD",Pro TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+http://91.235.165.117:8001/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="AcasăTV.ro@SD",Acasă TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/709.m3u8
+http://91.235.165.117:8002/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro@SD",Kanal D
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/705.m3u8
+http://91.235.165.117:8002/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD",Kanal D2
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/1012.m3u8
+http://91.235.165.117:8002/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
@@ -22,7 +20,7 @@ https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro@SD",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="NationalTV2.ro@SD",National TV 2
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/19272.m3u8
+http://91.235.165.117:8002/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro@SD",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD",Favorit TV
@@ -54,37 +52,37 @@ https://vs2141.vcdn.biz/2373ec2add6e6193ffed6a7fcda832c7_megogo/live/hls/b/4000/
 #EXTINF:-1 tvg-id="Beauty.ON.ro@SD",Beauty.ON
 http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD",Digi 24
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/685.m3u8
+http://91.235.165.117:8002/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro@SD",Romania TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/11082.m3u8
+http://91.235.165.117:8001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="B1TV.ro@SD",B1TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8405.m3u8
+http://91.235.165.117:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro@SD",Euronews Romania
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8527.m3u8
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro@SD",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD",Realitatea Plus
 http://hls01ns.antenaplay.ro/hls/realitatea-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="PROCINEMA.ro@SD",PRO CINEMA
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9491.m3u8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="AcasaGold.ro@SD",Acasa Gold
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="BollywoodClasic.ro@SD",Bollywood Clasic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro@SD",CineWow
-https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro@SD",Cinemaraton Plus
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18658.m3u8
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro@SD",Nostalgia TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/15461.m3u8
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@SD",Pro Arena
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
+http://91.235.165.117:8001/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="TraLaLaTV.ro@SD",TraLaLa TV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/8506.m3u8
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-id="TraLaLaDSN.ro@SD",TraLaLa DSN
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/18660.m3u8
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro@SD",Rock TV
@@ -94,11 +92,10 @@ https://hls02ns.antenaplay.ro/hls/magic-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro@SD",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="MusicChannel.ro@SD",Music Channel
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/87.m3u8
+http://91.235.165.117:8001/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="UTV.ro@SD",UTV
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
-#EXTINF:-1 tvg-id="H!TMusicChannel.ro@SD",H!T Music Channel
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/65.m3u8
+#EXTINF:-1 tvg-id="H!TMusicChannel.ro@SD",H!T Music http://91.235.165.117:8001/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro@SD",Party Mix
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="EmiTV.ro@SD",Emi TV
@@ -106,7 +103,7 @@ https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TarafTV.ro@SD",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD",Disco Mix
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/13427.m3u8
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV
 https://vs2139.vcdn.biz/c8f2f74a3f2fdbddc39dd566fe16e963_megogo/live/hls/b/700_2490/u_sid/0/o/183161911/rsid/a0e4b495-8346-4941-bd02-ea61ee848784/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.73*asn/u_srvc/109126/u_did/web_120545f86871779ba8c4d9505b6dfca9e62bd46fa6b48b0d4829dd71a1adad01/type.live/chunklist-sid3280795862407301834-b700000.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD",Traditional TV
