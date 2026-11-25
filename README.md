@@ -7,23 +7,4 @@ SPORTS PROGRAM:
 
 
 
-![all link](https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/916765382_1569329171895803_3031268544539243327_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=rxGezdCFq6sQ7kNvwHAo1Dt&_nc_oc=Ado15R8_5n5_5sRzAOKfKuTO7-3b1XM1EUGLdeTS-IixuyFQbSEGh8BGXYbZCBdfW_U&_nc_zt=23&_nc_ht=scontent.fotp3-1.fna&_nc_gid=673_uw9IGLhkD3wVMeAE2g&_nc_ss=7b289&oh=00_AQRbYQT8stc68LLpEKX8GlLcPG8x2LoHIQyHu0qTQ54P6w&oe=6B0739FF)
-
-
-Premier League | Matchday 11 - LIVE on Voyo Sport 1 and Voyo Sport
-
-
-
-![alt link](https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/916765355_1568350711993649_8970597245954139850_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=b1bd88&_nc_ohc=AUVMJj1gFmgQ7kNvwHTCISL&_nc_oc=Adp-VrGtExMiygZRUFQjXBchL-QiReVcML262PyLAOi5E404QJ-LJToCbtuePHzEV-0&_nc_zt=23&_nc_ht=scontent.fotp3-3.fna&_nc_gid=FZlw-I0l5HR3UVte7PTzxg&_nc_ss=7b289&oh=00_AQRR48rmBGQtFo_AWi86xiDzOfB9JGeNjUxdxJAJ8V5f7Q&oe=6B0751F0)
-
-
-
-Ligue 1 | Matchday 11 - LIVE on Voyo Sport 1 and Voyo Sport
-
-
-
-![alt link](https://cloudia.cms-ro.jyxo-tls.net/r680x380n/a5ddbaf6-b3ca-417f-bcea-01f2cc0c1425.avif)
-
-
-
-AFC Champions League Elite | - LIVE on Voyo Sport 1 and Voyo Sport
+![all link](https://scontent.fias1-2.fna.fbcdn.net/v/t39.30808-6/920964737_1572976348197752_6576788603570471448_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d6485c&_nc_ohc=kd_bnbEuqMYQ7kNvwHdwPkb&_nc_oc=Adr4queyli4ptulpOGW6ouVbqY4mMsNvk76mHgY-2P2p67ENg2K-WxAlIte6QPnZPfc&_nc_zt=23&_nc_ht=scontent.fias1-2.fna&_nc_gid=z32trg443Xc4c5Cgm07Ldw&_nc_ss=7b389&oh=00_AQRQezkOEXkOhnhhjQYmqbjEv90sTOrZOfFLFgNROkoa-A&oe=6B0CB520)
