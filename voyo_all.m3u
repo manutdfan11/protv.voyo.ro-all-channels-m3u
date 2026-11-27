@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
 http://89.45.22.101:8011/play/1/index.m3u8
+#EXTINF:-1 tvg-id="ONEFridayFights180.ro@SD",ONE Friday Fights 180 - LIVE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="ProTV.ro@SD",Pro TV
