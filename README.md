@@ -13,7 +13,7 @@ SPORTS PROGRAM:
 
 
 
-[alt link](https://cloudia.cms-ro.jyxo-tls.net/r680x380n/ac141507-19de-5d6b-b2ed-bc4e50f50069.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
+![alt link](https://cloudia.cms-ro.jyxo-tls.net/r680x380n/ac141507-19de-5d6b-b2ed-bc4e50f50069.avif?default=2e0a191c-8ea5-4fed-bfc1-e2be5e733fad)
 
 
 GLORY Kickboxing | GLORY Rivals LIVE on Pro Arena
