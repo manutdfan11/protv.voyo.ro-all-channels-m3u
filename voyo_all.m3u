@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VoyoSport1.ro@SD",Voyo Sport 1
 http://89.45.22.101:8011/play/1/index.m3u8
+#EXTINF:-1 tvg-id="VoyoSport.ro@SD",Voyo Sport Premier League
+http://89.45.22.101:8011/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Voyo.ro@SD",Phoenix Riders - LIVE
 https://dilos.cdn.dejacast.com/live/hyam/hyam.m3u8?from=1795863247&to=1795892047&session=zrfFWJT2mCPJlE69&source=cms&token=YinqFbLZCi6psy2_2R-tZ1ijFTQ=
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
